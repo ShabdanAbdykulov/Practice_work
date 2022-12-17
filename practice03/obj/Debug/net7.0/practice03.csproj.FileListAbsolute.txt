@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Practice1\practice03\obj\Debug\net7.0\practice03.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practice1\practice03\obj\Debug\net7.0\practice03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Practice1\practice03\obj\Debug\net7.0\practice03.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Practice1\practice03\obj\Debug\net7.0\practice03.AssemblyInfo.cs
+C:\Users\User\Desktop\Practice1\practice03\obj\Debug\net7.0\practice03.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practice1\practice03\bin\Debug\net7.0\practice03.exe
+C:\Users\User\Desktop\Practice1\practice03\bin\Debug\net7.0\practice03.deps.json
+C:\Users\User\Desktop\Practice1\practice03\bin\Debug\net7.0\practice03.runtimeconfig.json
+C:\Users\User\Desktop\Practice1\practice03\bin\Debug\net7.0\practice03.dll
+C:\Users\User\Desktop\Practice1\practice03\bin\Debug\net7.0\practice03.pdb
+C:\Users\User\Desktop\Practice1\practice03\obj\Debug\net7.0\practice03.dll
+C:\Users\User\Desktop\Practice1\practice03\obj\Debug\net7.0\refint\practice03.dll
+C:\Users\User\Desktop\Practice1\practice03\obj\Debug\net7.0\practice03.pdb
+C:\Users\User\Desktop\Practice1\practice03\obj\Debug\net7.0\practice03.genruntimeconfig.cache
+C:\Users\User\Desktop\Practice1\practice03\obj\Debug\net7.0\ref\practice03.dll
