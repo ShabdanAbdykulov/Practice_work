@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Practice1\practice04\obj\Debug\net7.0\practice04.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practice1\practice04\obj\Debug\net7.0\practice04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Practice1\practice04\obj\Debug\net7.0\practice04.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Practice1\practice04\obj\Debug\net7.0\practice04.AssemblyInfo.cs
+C:\Users\User\Desktop\Practice1\practice04\obj\Debug\net7.0\practice04.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practice1\practice04\bin\Debug\net7.0\practice04.exe
+C:\Users\User\Desktop\Practice1\practice04\bin\Debug\net7.0\practice04.deps.json
+C:\Users\User\Desktop\Practice1\practice04\bin\Debug\net7.0\practice04.runtimeconfig.json
+C:\Users\User\Desktop\Practice1\practice04\bin\Debug\net7.0\practice04.dll
+C:\Users\User\Desktop\Practice1\practice04\bin\Debug\net7.0\practice04.pdb
+C:\Users\User\Desktop\Practice1\practice04\obj\Debug\net7.0\practice04.dll
+C:\Users\User\Desktop\Practice1\practice04\obj\Debug\net7.0\refint\practice04.dll
+C:\Users\User\Desktop\Practice1\practice04\obj\Debug\net7.0\practice04.pdb
+C:\Users\User\Desktop\Practice1\practice04\obj\Debug\net7.0\practice04.genruntimeconfig.cache
+C:\Users\User\Desktop\Practice1\practice04\obj\Debug\net7.0\ref\practice04.dll
