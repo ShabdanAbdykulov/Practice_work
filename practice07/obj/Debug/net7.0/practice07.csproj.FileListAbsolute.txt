@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Practice1\practice07\obj\Debug\net7.0\practice07.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practice1\practice07\obj\Debug\net7.0\practice07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Practice1\practice07\obj\Debug\net7.0\practice07.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Practice1\practice07\obj\Debug\net7.0\practice07.AssemblyInfo.cs
+C:\Users\User\Desktop\Practice1\practice07\obj\Debug\net7.0\practice07.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practice1\practice07\bin\Debug\net7.0\practice07.exe
+C:\Users\User\Desktop\Practice1\practice07\bin\Debug\net7.0\practice07.deps.json
+C:\Users\User\Desktop\Practice1\practice07\bin\Debug\net7.0\practice07.runtimeconfig.json
+C:\Users\User\Desktop\Practice1\practice07\bin\Debug\net7.0\practice07.dll
+C:\Users\User\Desktop\Practice1\practice07\bin\Debug\net7.0\practice07.pdb
+C:\Users\User\Desktop\Practice1\practice07\obj\Debug\net7.0\practice07.dll
+C:\Users\User\Desktop\Practice1\practice07\obj\Debug\net7.0\refint\practice07.dll
+C:\Users\User\Desktop\Practice1\practice07\obj\Debug\net7.0\practice07.pdb
+C:\Users\User\Desktop\Practice1\practice07\obj\Debug\net7.0\practice07.genruntimeconfig.cache
+C:\Users\User\Desktop\Practice1\practice07\obj\Debug\net7.0\ref\practice07.dll
