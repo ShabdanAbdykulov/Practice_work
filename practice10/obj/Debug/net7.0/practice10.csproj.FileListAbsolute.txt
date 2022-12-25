@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Practice1\practice10\bin\Debug\net7.0\practice10.exe
+C:\Users\User\Desktop\Practice1\practice10\bin\Debug\net7.0\practice10.deps.json
+C:\Users\User\Desktop\Practice1\practice10\bin\Debug\net7.0\practice10.runtimeconfig.json
+C:\Users\User\Desktop\Practice1\practice10\bin\Debug\net7.0\practice10.dll
+C:\Users\User\Desktop\Practice1\practice10\bin\Debug\net7.0\practice10.pdb
+C:\Users\User\Desktop\Practice1\practice10\obj\Debug\net7.0\practice10.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practice1\practice10\obj\Debug\net7.0\practice10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Practice1\practice10\obj\Debug\net7.0\practice10.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Practice1\practice10\obj\Debug\net7.0\practice10.AssemblyInfo.cs
+C:\Users\User\Desktop\Practice1\practice10\obj\Debug\net7.0\practice10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practice1\practice10\obj\Debug\net7.0\practice10.dll
+C:\Users\User\Desktop\Practice1\practice10\obj\Debug\net7.0\refint\practice10.dll
+C:\Users\User\Desktop\Practice1\practice10\obj\Debug\net7.0\practice10.pdb
+C:\Users\User\Desktop\Practice1\practice10\obj\Debug\net7.0\practice10.genruntimeconfig.cache
+C:\Users\User\Desktop\Practice1\practice10\obj\Debug\net7.0\ref\practice10.dll
